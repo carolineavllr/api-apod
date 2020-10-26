@@ -1,3 +1,12 @@
+## Tecnologias
+- React
+- Nextjs
+- Styled Components
+
+## Funcionamento
+- Ao entrar na apliacação, iniciar no botão 'start' para visualizar as imagens do dia
+- Clicando na imagem, terá as informações
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
